@@ -38,7 +38,7 @@ while(opcao != 4):
     opcao = int(input())
     print("Digite o tamanho da informacao")
     tamanho = int(input())
-    print("Digite a letra a ser utiliada")
+    print("Digite a letra a ser utilizada")
     letra = input()
 
     if(opcao == 1):
